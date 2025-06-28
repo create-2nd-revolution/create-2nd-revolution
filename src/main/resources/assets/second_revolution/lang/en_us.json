@@ -1,0 +1,13 @@
+{
+  "itemGroup.second_revolution": "Example Mod Tab",
+  "block.second_revolution.example_block": "Example Block",
+  "item.second_revolution.example_item": "Example Item",
+
+  "second_revolution.configuration.title": "Create: 2nd Revolution Configs",
+  "second_revolution.configuration.section.second_revolution.common.toml": "Create: 2nd Revolution Configs",
+  "second_revolution.configuration.section.second_revolution.common.toml.title": "Create: 2nd Revolution Configs",
+  "second_revolution.configuration.items": "Item List",
+  "second_revolution.configuration.logDirtBlock": "Log Dirt Block",
+  "second_revolution.configuration.magicNumberIntroduction": "Magic Number Text",
+  "second_revolution.configuration.magicNumber": "Magic Number"
+}
